@@ -1,31 +1,30 @@
 {
-  "greeting": "你好啊",
-  "name": "XX",
-  "greetingText": "很庆幸能在最美丽的年华遇见最美丽的你",
-  "wishText": "朱颜长似，头上花枝，岁岁年年。愿君青丝不老，岁岁皆欢。",
-  "imagePath": "img/lydia2.png",
-  "text1": "今天是你的生日啊!!! :D",
-  "textInChatBox": "非常非常非常诚挚的祝你生日快乐！！！很多很多的快乐……",
-  "sendButtonLabel": "发送",
-  "text2": "我想给你一个惊喜",
-  "text3": "我认真的想了很久",
-  "text4": "我认识到，我想要做一些",
-  "text4Adjective": "特殊的事情",
-  "text5Entry": "因为，",
-  "text5Content": "你对于我来说，很特殊",
+  "greeting": "ดีคับ",
+  "name": "เด็กเอิร์น",
+  "greetingText": "ดีใจที่ได้พบเธอในช่วงเวลาที่ดีที่สุดของชีวิต",
+  "wishText": "ขอให้เธอยิ้มได้ทุกวัน มีความสุขเสมอ อยู่ด้วยกันแบบนี้ไปนาน ๆ นะ",
+  "imagePath": "img/earn.png",
+  "text1": "วันนี้เป็นวันครบรอบของเรานะ!!! :D",
+  "textInChatBox": "สุขสันต์วันครบรอบ 1 ปีนะ รักเธอมาก ๆ เลย 💖",
+  "sendButtonLabel": "ส่ง",
+  "text2": "เรามีอะไรจะเซอร์ไพรส์เธอ",
+  "text3": "เราคิดเรื่องนี้มานานเลยล่ะ",
+  "text4": "เราอยากทำอะไรที่มัน",
+  "text4Adjective": "พิเศษสุด ๆ",
+  "text5Entry": "เพราะว่า...",
+  "text5Content": "เธอคือคนที่พิเศษที่สุดสำหรับเรา",
   "smiley": ":)",
-  "bigTextPart1": "所",
-  "bigTextPart2": "以",
-  "wishHeading": "生日快乐啊!",
-  "outroText": "我希望你喜欢这个小小的惊喜!",
-  "replayText": "如果你喜欢的话，可以再看一次哦!或者……",
+  "bigTextPart1": "ก็",
+  "bigTextPart2": "เลย",
+  "wishHeading": "สุขสันต์วันครบรอบ!",
+  "outroText": "หวังว่าเธอจะชอบของขวัญเล็ก ๆ ชิ้นนี้นะ :)",
+  "replayText": "ถ้าชอบก็กดดูอีกสักรอบได้นะ! หรือจะแชร์ก็ได้นะ 💕",
   "outroSmiley": ":)",
-  "music": "./music/bgMusic.mp3",
+  "music": "./music/koonjan.mp3",
   "fonts": [
     {
-      "name": "Ma Shan Zheng",
-      "path": "https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap"
+      "name": "Noto Sans Thai",
+      "path": "https://fonts.googleapis.com/css2?family=Noto+Sans+Thai&display=swap"
     }
   ]
 }
-
